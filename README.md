@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @LukeHurley
 - 👀 I’m interested in RapsberryPi's, SBC's, and Web Development
-- 🤓 I’m currently learning HTML, CSS, Javascript & jQuery
+- 🤓 I’m currently learning HTML, CSS, Javascript, jQuery, & Python.
